@@ -1,5 +1,5 @@
 # date-time
 
-- It's a simple current date time programme.
-- Shows a current date time.
+- This is a simple current date time program.
+- Shows a current date and time.
   
